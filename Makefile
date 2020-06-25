@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.12 2020/02/03 01:13:34 schmonz Exp $
+# $NetBSD: Makefile,v 1.14 2020/06/25 05:42:36 schmonz Exp $
 
 DISTNAME=		djbdnscurve6-36b
 CATEGORIES=		net
